@@ -1,0 +1,65 @@
+/* .{
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Lobster', cursive;
+} */
+
+.navbar-brand{
+  /* font-style: normal; */
+  font-family: 'Lobster', cursive ;
+  margin-inline-start: auto;
+  height: auto;
+  width: 100%;
+  color: white;
+}
+
+.carousel-inner .carousel-item{
+  inline-size: 20%;
+  height: 20px;
+  width: 20%;
+}
+
+nav {
+  font-family: 'Cabin', sans-serif;
+  background-color: #373A3C !important;
+}
+
+.ricomida {
+  font-family: 'Lobster', cursive;
+}
+
+nav > div > div > ul > li > a {
+  font-size: 10pt !important;
+}
+
+img {
+  padding: 5px;
+  border-radius: 15px;
+}
+
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+}
+
+#logo-nav {
+  max-height: 40px;
+}
+
+hr {
+  height: 2px !important;
+  background-color: #000000 !important;
+}
+
+button {
+  font-size: 12px !important;
+}
+
+#newsletter {
+  background-color: #DC3545;
+  font-family: 'Cabin', sans-serif !important;
+}
+
+footer {
+  margin-top: -22px !important;
+  font-family: 'Lobster', cursive;
+  background-color: #373A3C !important;
+}
